@@ -1,9 +1,14 @@
-# api documentation for  [ftps (v1.1.0)](https://github.com/Atinux/node-ftps#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ftps.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ftps) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ftps.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ftps)
+# npmdoc-ftps
+
+#### api documentation for  [ftps (v1.1.0)](https://github.com/Atinux/node-ftps#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ftps.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ftps) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ftps.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ftps)
+
 #### FTP, FTPS and SFTP client for node.js, mainly a lftp wrapper.
 
-[![NPM](https://nodei.co/npm/ftps.png?downloads=true)](https://www.npmjs.com/package/ftps)
+[![NPM](https://nodei.co/npm/ftps.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ftps)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ftps/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ftps_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ftps/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ftps/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ftps/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ftps/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ftps/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ftps/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Sébastien Chopin",
-        "email": "atinux@gmail.com",
         "url": "https://twitter.com/atinux"
     },
     "bugs": {
@@ -76,13 +80,11 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "atinux",
-            "email": "atinux@gmail.com"
+            "name": "atinux"
         }
     ],
     "name": "ftps",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Atinux/node-ftps.git"
@@ -95,16 +97,6 @@
     "version": "1.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ftps](#apidoc.module.ftps)
-
-
-
-# <a name="apidoc.module.ftps"></a>[module ftps](#apidoc.module.ftps)
 
 
 
