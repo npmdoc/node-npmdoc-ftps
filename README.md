@@ -1,6 +1,6 @@
 # npmdoc-ftps
 
-#### api documentation for  [ftps (v1.1.0)](https://github.com/Atinux/node-ftps#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ftps.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ftps) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ftps.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ftps)
+#### basic api documentation for  [ftps (v1.1.0)](https://github.com/Atinux/node-ftps#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ftps.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ftps) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ftps.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ftps)
 
 #### FTP, FTPS and SFTP client for node.js, mainly a lftp wrapper.
 
@@ -94,7 +94,8 @@
         "precommit": "npm run lint",
         "test": "mocha"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
